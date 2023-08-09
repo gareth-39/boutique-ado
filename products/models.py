@@ -40,7 +40,7 @@ class Product(models.Model):
         return self.name
 
     def save(self, *args, **kwargs):
-        if not self.slug:
+        if not self.sku:
             self.slug = slugify(self.name)
         return super().save(*args, **kwargs)
 
