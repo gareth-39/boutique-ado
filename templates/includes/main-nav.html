@@ -28,8 +28,8 @@
                 International Kits
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Jerseys</a>
-                <a href="" class="dropdown-item">International Jackets</a>
+                <a href="{% url 'products' %}?category=international_kits" class="dropdown-item">Jerseys</a>
+                <a href="{% url 'products' %}?category=international_Jackets" class="dropdown-item">International Jackets</a>
             </div>
         </li>
 
@@ -39,8 +39,6 @@
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
                 <a href="{% url 'products' %}?category=special_items_boots" class="dropdown-item">Boots</a>
-                <a href="" class="dropdown-item">Scarfs</a>
-                <a href="" class="dropdown-item">Programs</a>
             </div>
         </li>
     </ul>
