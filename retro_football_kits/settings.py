@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-hn75!$dh9=p$m)#j3+x+kmf)@)=-l23t(4s2^ut!h_5h^04p2g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['retro-football-kits-17e2f93d4b27.herokuapp.com/', 'localhost']
+ALLOWED_HOSTS = ['retro-football-kits-17e2f93d4b27.herokuapp.com']
 
 
 # Application definition
