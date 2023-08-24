@@ -1,0 +1,1 @@
+web: gunicorn Retro-football-kits.wsgi:application
