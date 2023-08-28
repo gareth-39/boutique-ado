@@ -29,4 +29,4 @@ urlpatterns = [
     path('profile/', include('profiles.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
-handler404 = 'retro-football-kits.views.handler404'
+handler404 = 'Retro-football-kits.views.handler404'
