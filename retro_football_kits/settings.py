@@ -35,7 +35,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['retro-football-kits-17e2f93d4b27.herokuapp.com', 'localhost']
 
-'retro-football-kits-17e2f93d4b27.herokuapp.com',
+
 # Application definition
 
 INSTALLED_APPS = [
