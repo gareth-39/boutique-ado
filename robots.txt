@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /accounts/
+Disallow: /checkout/
+sitemap: https://retro-football-kits-17e2f93d4b27.herokuapp.com/sitemap.xml
