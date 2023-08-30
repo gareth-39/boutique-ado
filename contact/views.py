@@ -103,4 +103,3 @@ class CloseTicket(LoginRequiredMixin, View):
 
         next = request.POST.get('next', '/')
         return HttpResponseRedirect(next)
-
