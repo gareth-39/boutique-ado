@@ -9,92 +9,287 @@
 
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/accounts/signup/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/accounts/login/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/bag/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?sort=price&amp;direction=asc</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?sort=rating&amp;direction=desc</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?sort=category&amp;direction=asc</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?category=Pemier_League</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?category=premier_league</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?category=premier_league_tops</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?category=international_kits</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?category=international_Jackets</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/?category=special_items_boots</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/privacy/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/contact/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/accounts/password/reset/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/33/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/39/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/4/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/32/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/34/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/1/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/41/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/6/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/29/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/31/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/14/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/40/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/35/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/36/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/27/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/30/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/8/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/22/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/25/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/28/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/21/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/3/</loc>
-  <lastmod>2023-08-29T04:07:30+00:00</lastmod>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/17/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/37/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/10/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/7/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/24/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/15/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/38/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/23/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/26/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/11/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/18/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/20/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/13/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/19/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/12/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/5/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/16/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://retro-football-kits-17e2f93d4b27.herokuapp.com/products/9/</loc>
+  <lastmod>2023-08-30T17:36:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
