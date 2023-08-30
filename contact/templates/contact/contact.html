@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block extra_title %}- Contact{% endblock %}
+
+{% block extra_meta %}
+<meta name="keywords" content="contact, contact us">
+{% endblock %}
+
+{% block page_header %}
+<div class="container header-container">
+    <div class="row">
+        <div class="col"></div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="overlay"></div>
+<div class="container">
+    {% for pvc in privacy %}
+    <div class="row my-5">
+        <h2 class="text-center">{{ pvc.title }}</h2>
+    </div>
+    <div class="row justify-text">
+        <div class="col-8">
+            <p class="privacy-text">{{ pvc.privacy_policy }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+<section class="position-relative py-5">
+    <div class="d-md-none"><iframe class="contact-map" allowfullscreen
+            src="https://cdn.bootstrapstudio.io/placeholders/map.html"></iframe></div>
+    <div class="d-block position-absolute" style="top: 0;left: 0;right: 0;bottom: 0;"><iframe class="contact-map"
+            allowfullscreen
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.2833103658513!2d-6.393586624483039!3d53.39187177131761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670d50e9317be7%3A0x1ef966973dd6d646!2sBlanchardstown%20Centre!5e0!3m2!1sen!2sie!4v1691910277025!5m2!1sen!2sie" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade" loading="lazy"></iframe></div>
+    <div class="position-relative mx-2 my-5 m-md-5">
+        <div class="container position-relative">
+            <div class="row">
+                <div class="col-md-7 col-lg-6 col-xl-5 offset-md-5 offset-lg-6 offset-xl-7">
+                    <div>
+                        <form class="bg-light border rounded shadow p-3 p-sm-4 p-lg-5" method="POST"
+                            action="{% url 'contact_form' %}" style="background: var(--bs-body-bg);">
+                            <h3 class="font-weight-bold text-center mb-3">Contact us</h3>
+                            {% csrf_token %}
+                            {% for field in form %}
+                            {{ field | as_crispy_field }}
+                            {% endfor %}
+                            <div class="mb-3"><button class="btn btn-success"
+                                    type="submit">Send</button></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

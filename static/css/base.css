@@ -182,6 +182,10 @@ input[name='q']::placeholder {
     width: 600px;
 }
 
+footer {
+    overflow-x: hidden;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */

@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block extra_title %}- Contact{% endblock %}
+
+{% block page_header %}
+<div class="container header-container">
+    <div class="row">
+        <div class="col"></div>
+    </div>
+</div>
+{% endblock %}
+
+
+{% block content %}
+<div class="overlay"></div>
+<div class="container">
+    {% for pvc in privacy %}
+    <div class="row my-5">
+        <h2 class="text-center">{{ pvc.title }}</h2>
+    </div>
+    <div class="row justify-text">
+        <div class="col-8">
+            <p class="privacy-text">{{ pvc.privacy_policy }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="container py-4 py-xl-5">
+    {% if open_tickets %}
+    <h1 class="logo-font text-center pb-3 text-yellow">{{ open_ticket_count }} Open Ticket{% if open_ticket_count > 1 %}s{% endif %}</h1>
+    <div class="row">
+        {% for ticket in open_tickets %}
+        <div class="col-md-8 mx-auto">
+            <div class="d-flex align-items-center align-items-md-start align-items-xl-center pink-border p-3">
+                <div>
+                    <h5 class="font-weight-bold">{{ ticket.name }} - {{ ticket.email }}</h5>
+                    <p>{{ ticket.message }}</p>
+                    <p class="small">{{ ticket.sent_at }}</p>
+                    <form method="POST" action="{% url 'close_ticket' ticket.pk %}">
+                        {% csrf_token %}
+                        <input type="hidden" name="text" value="{{ request.path }}">
+                        <button class="btn btn-success" type="submit">
+                            Close Ticket
+                        </button>
+                    </form>
+                </div>
+            </div>
+            <hr class="my-3">
+        </div>
+        {% endfor %}
+    </div>
+    {% if open_tickets.has_other_pages %}
+    <nav aria-label="Post navigation">
+        <ul class="pagination justify-content-center">
+            {% if open_tickets.has_previous %}
+            <li class="page-item"><a href="?page{{ open_tickets.previous_page_number }}" class="btn btn-outline-black">Newer Tickets</a></li>
+            {% endif %}
+
+            {% if open_tickets.has_next %}
+            <li class="page-item"><a href="?page{{ open_tickets.next_page_number }}" class="btn btn-outline-black">Older Tickets</a></li>
+            {% endif %}
+        </ul>
+    </nav>
+    {% endif %}
+
+    {% else %}
+    <h1 class="logo-font text-center text-yellow">No Open Tickets</h1>
+    {% endif %}
+</div>
+{% endblock %}
