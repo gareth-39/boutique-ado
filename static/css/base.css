@@ -62,7 +62,8 @@ body {
 }
 
 .text-black {
-    color: #000 !important;
+    color: yellow !important;
+    outline-color: #000;
 }
 
 .border-black {
