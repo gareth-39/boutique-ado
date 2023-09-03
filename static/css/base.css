@@ -33,7 +33,8 @@ body {
     min-width: 260px;
 }
 
-.btn-black {
+
+.btn btn-black {
     background: black;
     color: white;
 }
