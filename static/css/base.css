@@ -180,7 +180,7 @@ input[name='q']::placeholder {
     background:black;
     clear:left;
     font:14px Helvetica,Arial,sans-serif;
-    width: 600px;
+    width: 300px;
 }
 
 footer {
