@@ -139,35 +139,35 @@ input[name='q']::placeholder {
 
 /* Convenience classes - colors copied from Bootstrap */
 .arrow-primary {
-    border-bottom-color: #007bff !important;
+    border-bottom-color: hwb(211 0% 0%) !important;
 }
 
 .arrow-secondary {
-    border-bottom-color: #6c757d !important;
+    border-bottom-color: rgb(108, 117, 125) !important;
 }
 
 .arrow-success {
-    border-bottom-color: #28a745 !important;
+    border-bottom-color: rgb(40, 167, 69) !important;
 }
 
 .arrow-danger {
-    border-bottom-color: #dc3545 !important;
+    border-bottom-color: rgb(220, 53, 69) !important;
 }
 
 .arrow-warning {
-    border-bottom-color: #ffc107 !important;
+    border-bottom-color: rgb(255, 193, 7) !important;
 }
 
 .arrow-info {
-    border-bottom-color: #17a2b8 !important;
+    border-bottom-color: rgb(23, 162, 184) !important;
 }
 
 .arrow-light {
-    border-bottom-color: #f8f9fa !important;
+    border-bottom-color: rgb(247, 249, 250) !important;
 }
 
 .arrow-dark {
-    border-bottom-color: #343a40 !important;
+    border-bottom-color: rgb(52, 58, 64) !important;
 }
 
 .bag-notification-wrapper {
@@ -177,7 +177,7 @@ input[name='q']::placeholder {
 }
 
 #mc_embed_signup {
-    background:black;
+    background:rgb(0, 0, 0);
     clear:left;
     font:14px Helvetica,Arial,sans-serif;
     width: 600px;
@@ -200,7 +200,7 @@ footer {
 
 .allauth-form-inner-content p {
     margin-top: 1.5rem; /* mt-4 */
-    color: #6c757d; /* text-secondary */
+    color: rgb(108, 117, 125); /* text-secondary */
 }
 
 .allauth-form-inner-content input {
@@ -213,7 +213,7 @@ footer {
 }
 
 .allauth-form-inner-content input::placeholder {
-    color: #aab7c4;
+    color: rgb(170, 183, 196);
 }
 
 .allauth-form-inner-content button,
@@ -228,8 +228,8 @@ footer {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-color: #000;
-    border: 1px solid #000;
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
     padding: .375rem .75rem;
     font-size: 1rem;
     line-height: 1.5;
