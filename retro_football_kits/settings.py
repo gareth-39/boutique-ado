@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = 'DEVELOPMENT' in os.environ
 
 
-ALLOWED_HOSTS = ['8000-gareth39-retrofootballk-xzjfuvdpyoz.ws-eu104.gitpod.io', 'localhost']
+ALLOWED_HOSTS = ['retro-football-kits-17e2f93d4b27.herokuapp.com', 'localhost']
 
 
 # Application definition
