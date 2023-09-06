@@ -6,7 +6,7 @@ Retro football kits is an e-commerce store were users can find retro kits, jacke
 Site users can create an account log in, browse and purchase items using our secure checkout area. They can also contact us by email for any enquiry they might have.
 
 Here is a link to the live site hosted on heroku
-[live website]
+[live website](https://retro-football-kits-17e2f93d4b27.herokuapp.com/)
 
 Here is a link to my gitpod repository https://github.com/gareth-39/Retro-football-kits
 
@@ -36,6 +36,7 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 - As a site admin i wanted to be able to add and delete products when i needed.
 - As a site admin i also wanted to be able to edit items when i have too.
 - As a site admin i to navigate to the admin panel when i need too.
+- As a site admin i want to be able to view tickets and delete when finished.
 
 ### Site User
 - As a first time user i want to be able to register for the site and have the option to save my details so the site remembers me the next time i login.
@@ -91,44 +92,48 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 ![Alt text](/media/image-5%20(1).webp)
 
 # Features
-- Here is a list of images to showcase my website.
-![screenshot](/testing/testing/homepage.png)
-![screenshot](/testing/testing/all%20products%20page.png)
-![screenshot](/testing/testing/checkout%20page.png)
-![screenshot](/testing/testing/edit%20and%20delete.png)
-![screenshot](/testing/testing/admin%20panel.png)
-![screenshot](/testing/testing/footer.png)
-![screenshot](/testing/testing/shopping%20bag.png)
-![screenshot](/testing/testing/national%20jerseys.png)
-![screenshot](/testing/testing/national%20jackets.png)
-![screenshot](/testing/testing/prem%20jackets.png)
-![screenshot](/testing/testing/prem%20jerseys.png)
-![screenshot](/testing/testing/special%20items.png)
-![screenshot](/testing/testing/product%20management.png)
+- Here are some images to showcase my webite.<br><br>
+![screenshot](/testing/testing/homepage.png)<br><br>
+![screenshot](/testing/testing/all%20products%20page.png)<br><br>
+![screenshot](/testing/testing/checkout%20page.png)<br><br>
+![screenshot](/testing/testing/edit%20and%20delete.png)<br><br>
+![screenshot](/testing/testing/admin%20panel.png)<br><br>
+![screenshot](/testing/testing/footer.png)<br><br>
+![screenshot](/testing/testing/shopping%20bag.png)<br><br>
+![screenshot](/testing/testing/national%20jerseys.png)<br><br>
+![screenshot](/testing/testing/national%20jackets.png)<br><br>
+![screenshot](/testing/testing/prem%20jackets.png)<br><br>
+![screenshot](/testing/testing/prem%20jerseys.png)<br><br>
+![screenshot](/testing/testing/special%20items.png)<br><br>
+![screenshot](/testing/testing/product%20management.png)<br><br>
+![screenshot](/testing/testing/ticket%20page.png)<br><br>
+![screenshot](/testing/testing/open%20ticket.png)<br><br>
+![screenshot](/testing/testing/ticket%20closed.png)<br><br>
+![screenshot](/testing/testing/successful%20checkout.png)
 
 # Facebook
 - As part of the project we needed a facebook page to match ourproject here is mine.
-![screenshot](/testing/testing/facebook%20page%201.png)
+![screenshot](/testing/testing/facebook%20page%201.png)<br><br>
 ![screenshot](/testing/testing/facebook%20page%202.png)
 
 # Custom Code
 - Also as part of our project we must add three custom codes i choose a privacy, contact and Faq page.
-![screenshot](/testing/testing/privacy%20page.png)
-![screenshot](/testing/testing/contact%20page.png)
-![screenshot](/testing/testing/faq%20page.png)
+![screenshot](/testing/testing/privacy%20page.png)<br><br>
+![screenshot](/testing/testing/contact%20page.png)<br><br>
+![screenshot](/testing/testing/faq%20page.png)<br><br>
 
 # Wireframes
-![screenshot](/testing/testing/home%20wire.png)
+![screenshot](/testing/testing/home%20wire.png)<br><br>
 ![screenshot](/testing/testing/products%20wire.png)
 
 # Testing
 -  ## Lighthouse Testing
-![screenshot](/testing/testing/lighthouse%20homepage.png)
-![screenshot](/testing/testing/lighthouse%20all%20products.png)
-![screenshot](/testing/testing/checkout%20lighthouse.png)
-![screenshot](/testing/testing/lighthouse%20privacy%20page.png)
-![screenshot](/testing/testing/lighthouse%20faq.png)
-![screenshot](/testing/testing/lghthouse%20contact.png)
+![screenshot](/testing/testing/lighthouse%20homepage.png)<br><br>
+![screenshot](/testing/testing/lighthouse%20all%20products.png)<br><br>
+![screenshot](/testing/testing/checkout%20lighthouse.png)<br><br>
+![screenshot](/testing/testing/lighthouse%20privacy%20page.png)<br><br>
+![screenshot](/testing/testing/lighthouse%20faq.png)<br><br>
+![screenshot](/testing/testing/lghthouse%20contact.png)<br><br>
 
 # Testing
 - ## Code Validator Html
@@ -139,56 +144,64 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 ## Css
 ### Base Css
 ![screenshot](/testing/testing/base%20css.png)
+<br><br>
+
 ### Checkout Css
 ![screenshot](/testing/testing/checkout%20css.png)
+<br><br>
+
 ### Profile Css
 ![screenshot](/testing/testing/profile%20css.png)
 
 ## Javascript JShint Validator
 ### Countryfields
 ![screenshot](/testing/testing/countryfield%20profile%20js.png)
+<br><br>
+
 ### Stripe
 ![screenshot](/testing/testing/stripe%20js.png)
 
 ## Python CI Python Linter
-![screenshot](/testing/testing/bag%20contexts.py.png)
-![screenshot](/testing/testing/bag%20models.py.png)
-![screenshot](/testing/testing/bag%20views.py.png)
-![screenshot](/testing/testing/checkout%20admin.py.png)
-![screenshot](/testing/testing/checkout%20apps.py.png)
-![screenshot](/testing/testing/checkout%20forms.py.png)
-![screenshot](/testing/testing/checkout%20models.py.png)
-![screenshot](/testing/testing/checkout%20signals.py.png)
-![screenshot](/testing/testing/contact%20admin.py.png)
-![screenshot](/testing//testing/contact%20forms.py.png)
-![screenshot](/testing//testing/contact%20models.py.png)
-![screenshot](/testing/testing/contact%20views.py.png)
-![screenshot](/testing/testing/home%20views.py.png)
-![screenshot](/testing/testing/privacy%20models.py.png)
-![screenshot](/testing/testing/privacy%20views.py.png)
-![screenshot](/testing/testing/product%20admin.py.png)
-![screenshot](/testing/testing/product%20forms.py.png)
-![screenshot](/testing/testing/product%20models.py.png)
-![screenshot](/testing/testing/product%20views.py.png)
-![screenshot](/testing/testing/profile%20forms.py.png)
-![screenshot](/testing/testing/profile%20models.py.png)
-![screenshot](/testing/testing/profile%20views.py.png)
-![screenshot](/testing/testing/retro%20settings.py.png)
-![screenshot](/testing/testing/retro%20views.py.png)
-![screenshot](/testing/testing/webhook.py.png)
-![screenshot](/testing/testing/wh%20handler.py.png)
+![screenshot](/testing/testing/bag%20contexts.py.png)<br><br>
+![screenshot](/testing/testing/bag%20models.py.png)<br><br>
+![screenshot](/testing/testing/bag%20views.py.png)<br><br>
+![screenshot](/testing/testing/checkout%20admin.py.png)<br><br>
+![screenshot](/testing/testing/checkout%20apps.py.png)<br><br>
+![screenshot](/testing/testing/checkout%20forms.py.png)<br><br>
+![screenshot](/testing/testing/checkout%20models.py.png)<br><br>
+![screenshot](/testing/testing/checkout%20signals.py.png)<br><br>
+![screenshot](/testing/testing/contact%20admin.py.png)<br><br>
+![screenshot](/testing//testing/contact%20forms.py.png)<br><br>
+![screenshot](/testing//testing/contact%20models.py.png)<br><br>
+![screenshot](/testing/testing/contact%20views.py.png)<br><br>
+![screenshot](/testing/testing/home%20views.py.png)<br><br>
+![screenshot](/testing/testing/privacy%20models.py.png)<br><br>
+![screenshot](/testing/testing/privacy%20views.py.png)<br><br>
+![screenshot](/testing/testing/product%20admin.py.png)<br><br>
+![screenshot](/testing/testing/product%20forms.py.png)<br><br>
+![screenshot](/testing/testing/product%20models.py.png)<br><br>
+![screenshot](/testing/testing/product%20views.py.png)<br><br>
+![screenshot](/testing/testing/profile%20forms.py.png)<br><br>
+![screenshot](/testing/testing/profile%20models.py.png)<br><br>
+![screenshot](/testing/testing/profile%20views.py.png)<br><br>
+![screenshot](/testing/testing/retro%20settings.py.png)<br><br>
+![screenshot](/testing/testing/retro%20views.py.png)<br><br>
+![screenshot](/testing/testing/webhook.py.png)<br><br>
+![screenshot](/testing/testing/wh%20handler.py.png)<br><br>
 
 # Manual Website testing
-![screenshot](/testing/testing/successful%20checkout.png)
-![screenshot](/testing/testing/sign%20in.png)
+![screenshot](/testing/testing/successful%20checkout.png)<br><br>
+![screenshot](/testing/testing/sign%20in.png)<br><br>
 ![screenshot](/testing/testing/sign%20in%20success.png)
+<br><br>
 
 # User Story Testing
-![screenshot](/testing/user%20story/user%20stories/to%20do.png)
-![screenshot](/testing/user%20story/user%20stories/closed%20stories%201.png)
-![screenshot](/testing/user%20story/user%20stories/closed%20stories%202.png)
-![screenshot](/testing/user%20story/user%20stories/closed%20stories%203.png)
+![screenshot](/testing/user%20story/user%20stories/to%20do.png)<br><br>
+![screenshot](/testing/user%20story/user%20stories/closed%20stories%201.png)<br><br>
+![screenshot](/testing/user%20story/user%20stories/closed%20stories%202.png)<br><br>
+![screenshot](/testing/user%20story/user%20stories/closed%20stories%203.png)<br>
 ![screenshot](/testing/user%20story/user%20stories/finished%20user%20stories.png)
+<br><br>
 
 # I Am Responsive
 ![screenshot](/testing/testing/i%20am%20responsive.png)
@@ -197,6 +210,7 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 
 ## Stock Control
 - In future i would like to implement a system were the user can see what quantity of stock each product has.
+-  I would also like to add a 24hour chat bot to help filter enquiries.
 
 # Bugs and errors:
 I had so many bugs and errors on this project, here is a list of them and the solutions i encorperated.
@@ -239,7 +253,9 @@ I had so many bugs and errors on this project, here is a list of them and the so
 
 * https://www.sportbible.com/football/news-adidas-and-pharrell-williams-release-stunning-humanrace-retro-kits-20201023 For my main page image
 
-* https://mdbootstrap.com/ for my footer including social media boes 
+* https://mdbootstrap.com/ for my footer including social media buttons and my contact page
+
+* https://www.privacypolicygenerator.info/ for my privay page template
 
 * Bootstrap https://getbootstrap.com/
 
@@ -296,23 +312,3 @@ JavaScript
 # #
 
 ## FINALLY THANK YOU TO THE ASSESSMENT TEAM FOR ALL OF THE POSITIVE FEED BACK USE HAVE GIVEN ME IN ALL MY PROJECTS TO DATE.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
