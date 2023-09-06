@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = 'DEVELOPMENT' in os.environ
 
 
-ALLOWED_HOSTS = ['retro-football-kits-17e2f93d4b27.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['retro-football-kits-17e2f93d4b27.herokuapp.com', 'localhost', os.environ.get('ALLOWED_HOST')]
 
 
 # Application definition

@@ -8,7 +8,28 @@ Site users can create an account log in, browse and purchase items using our sec
 Here is a link to the live site hosted on heroku
 [live website]
 
-Here is a link to my gitpod repository 
+Here is a link to my gitpod repository https://github.com/gareth-39/Retro-football-kits
+
+# Table of Contents:
+* User Stories
+* Libraries and technologies
+* Expectations
+* Functionality
+* UX/UI
+* Main site image
+* Features
+* Facebook
+* Custom Code
+* Wireframes
+* Testing
+* Future features
+* Bugs and errors
+* Deployment
+* Credits
+* Icons
+* Fonts
+* Programs used
+* My thanks<br><br>
 
 # User Stories
 ### Site Admin
@@ -168,6 +189,14 @@ Here is a link to my gitpod repository
 ![screenshot](/testing/user%20story/user%20stories/closed%20stories%202.png)
 ![screenshot](/testing/user%20story/user%20stories/closed%20stories%203.png)
 ![screenshot](/testing/user%20story/user%20stories/finished%20user%20stories.png)
+
+# I Am Responsive
+![screenshot](/testing/testing/i%20am%20responsive.png)
+
+# Future Features
+
+## Stock Control
+- In future i would like to implement a system were the user can see what quantity of stock each product has.
 
 # Bugs and errors:
 I had so many bugs and errors on this project, here is a list of them and the solutions i encorperated.
