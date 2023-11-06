@@ -6,7 +6,7 @@ Retro football kits is an e-commerce store were users can find retro kits, jacke
 Site users can create an account log in, browse and purchase items using our secure checkout area. They can also contact us by email for any enquiry they might have.
 
 Here is a link to the live site hosted on heroku
-[live website](https://retro-football-kits-17e2f93d4b27.herokuapp.com//)
+[live website](https://retro-football-kits-17e2f93d4b27.herokuapp.com/)
 
 Here is a link to my gitpod repository https://github.com/gareth-39/Retro-football-kits
 
