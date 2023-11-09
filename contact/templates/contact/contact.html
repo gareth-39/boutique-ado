@@ -47,6 +47,11 @@
                             {% for field in form %}
                             {{ field | as_crispy_field }}
                             {% endfor %}
+                            <div class="form-group">
+                            
+                                <label for="exampleFormControlFile1">Please share image of issue(optional)</label>
+                                <input type="file" class="form-control-file" id="exampleFormControlFile1">
+                              </div>
                             <div class="mb-3"><button class="btn btn-success"
                                     type="submit">Send</button></div>
                         </form>

@@ -30,10 +30,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 
-ALLOWED_HOSTS = ['retro-football-kits-17e2f93d4b27.herokuapp.com', 'localhost', os.environ.get('ALLOWED_HOST')]
+ALLOWED_HOSTS = ['8000-gareth39-retrofootballk-xzjfuvdpyoz.ws-eu106.gitpod.io', 'localhost', os.environ.get('ALLOWED_HOST')]
 
 
 # Application definition

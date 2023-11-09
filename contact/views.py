@@ -34,7 +34,7 @@ def contact_form(request):
             user_email = ticket.email
             subject = render_to_string(
                 'contact/contact_form_confirmation_subject.txt')
-            image1 = request.FILES['image1']
+            
             body = render_to_string(
                 'contact/contact_form_confirmation_body.txt',
                 {'contact_email': settings.DEFAULT_FROM_EMAIL})

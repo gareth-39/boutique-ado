@@ -11,4 +11,3 @@ class Ticket(models.Model):
     message = models.TextField(null=False, blank=False)
     sent_at = models.DateTimeField(default=timezone.now)
     seen = models.BooleanField(default=False)
-    image1 = forms.Field(label='sample photo', widget = forms.FileInput, required = True )
