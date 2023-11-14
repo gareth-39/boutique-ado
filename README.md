@@ -1,9 +1,38 @@
 # Retro Football kits - Project Portfolio 5 - E-Commerce
 ![screenshot](/testing/testing/i%20am%20responsive.png)
 
-Retro football kits is an e-commerce store were users can find retro kits, jackets and boots from there favourite teams all in one place.
 
-Site users can create an account log in, browse and purchase items using our secure checkout area. They can also contact us by email for any enquiry they might have.
+## Welcome to Retro Football Kits, Your Ultimate Destination for Authentic Replica Football Shirts!
+
+At Retro Football Kits, we bring the passion of the beautiful game to life through our extensive collection of top-quality replica football jerseys, jackets and boots. Whether you're a die-hard fan looking to proudly sport your team's colors or a collector seeking authentic replicas, we've got you covered.
+
+**Our Mission: Celebrating Football Fandom**
+
+Our mission is simple: to celebrate the spirit and enthusiasm of football fans worldwide. We understand the emotional connection fans have with their favorite teams, and we strive to provide a platform where every fan can find the perfect replica jersey to showcase their unwavering support.
+
+**Diverse Selection of Authentic Replicas**
+
+Explore our vast array of authentic replica football jerseys, jackets and boots from clubs across various leagues and continents. From the English Premier League giants to the international stage, we offer an extensive selection to cater to fans of all allegiances.
+
+**Quality and Authenticity Guaranteed**
+
+We take pride in offering only the highest quality replica shirts, jerseys and boots, ensuring every detail matches the official kits worn by the players on the pitch. Each shirt is meticulously crafted to reflect the design, fabric, and branding of the original, giving you an authentic experience.
+
+**Committed to Customer Satisfaction**
+
+At Retro Football Kits, customer satisfaction is our priority. Our user-friendly interface, secure payment options, and responsive customer service team ensure a seamless and enjoyable shopping experience. We aim to exceed your expectations at every step.
+
+**Supporting Your Fandom, Every Step of the Way**
+
+Whether you're gearing up for matchday, adding to your collection, or searching for that elusive classic shirt, Retro Football Kits is here to support your fandom journey. Our commitment is to provide you with an unparalleled selection, exceptional service, and an experience that celebrates the essence of football.
+
+**Join Us in Celebrating the Game!**
+
+Embrace your love for the sport and your favorite team by exploring our collection of authentic replica football shirts. Retro Football Kits is where passion meets authenticity, and fandom finds its home.
+
+Thank you for choosing Retro Football Kits - Your Destination for Authentic Replica Football Shirts, Jerseys and Boots!
+
+
 
 Here is a link to the live site hosted on heroku
 [live website](https://retro-football-kits-17e2f93d4b27.herokuapp.com/)
@@ -93,23 +122,23 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 
 # Features
 - Here are some images to showcase my webite.<br><br>
-![screenshot](/testing/testing/homepage.png)<br><br>
-![screenshot](/testing/testing/all%20products%20page.png)<br><br>
-![screenshot](/testing/testing/checkout%20page.png)<br><br>
-![screenshot](/testing/testing/edit%20and%20delete.png)<br><br>
-![screenshot](/testing/testing/admin%20panel.png)<br><br>
-![screenshot](/testing/testing/footer.png)<br><br>
-![screenshot](/testing/testing/shopping%20bag.png)<br><br>
-![screenshot](/testing/testing/national%20jerseys.png)<br><br>
-![screenshot](/testing/testing/national%20jackets.png)<br><br>
-![screenshot](/testing/testing/prem%20jackets.png)<br><br>
-![screenshot](/testing/testing/prem%20jerseys.png)<br><br>
-![screenshot](/testing/testing/special%20items.png)<br><br>
-![screenshot](/testing/testing/product%20management.png)<br><br>
-![screenshot](/testing/testing/ticket%20page.png)<br><br>
-![screenshot](/testing/testing/open%20ticket.png)<br><br>
-![screenshot](/testing/testing/ticket%20closed.png)<br><br>
-![screenshot](/testing/testing/successful%20checkout.png)
+This is my homepage ![screenshot](/testing/testing/homepage.png)<br><br>
+This is my products ![screenshot](/testing/testing/all%20products%20page.png)<br><br>
+This is my checkout page ![screenshot](/testing/testing/checkout%20page.png)<br><br>
+This is my editibg and deleting products fuction as admin ![screenshot](/testing/testing/edit%20and%20delete.png)<br><br>
+This is my admin panel![screenshot](/testing/testing/admin%20panel.png)<br><br>
+This is my footer were people can go to are social accounts and subcribe to our news letter.![screenshot](/testing/testing/footer.png)<br><br>
+This is my shopping bag were product to purchase are added. ![screenshot](/testing/testing/shopping%20bag.png)<br><br>
+This is my international jersey selection ![screenshot](/testing/testing/national%20jerseys.png)<br><br>
+This is my international jacket collection ![screenshot](/testing/testing/national%20jackets.png)<br><br>
+This is my premier league jacket collection![screenshot](/testing/testing/prem%20jackets.png)<br><br>
+This is my premier league jersey collection![screenshot](/testing/testing/prem%20jerseys.png)<br><br>
+This is my special boot collection![screenshot](/testing/testing/special%20items.png)<br><br>
+This is my product management section were i can add new items when needed ![screenshot](/testing/testing/product%20management.png)<br><br>
+This is my contact form for customers![screenshot](/testing/testing/ticket%20page.png)<br><br>
+This is my drop down menu to show the open ticket.![screenshot](/testing/testing/open%20ticket.png)<br><br>
+This is my been closed![screenshot](/testing/testing/ticket%20closed.png)<br><br>
+This is my image to show when a customer makes a purchase. ![screenshot](/testing/testing/successful%20checkout.png)
 <br><br>
 
 # Facebook
@@ -123,7 +152,10 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 ![screenshot](/testing/testing/contact%20page.png)<br><br>
 ![screenshot](/testing/testing/faq%20page.png)<br><br>
 ![screenshot](/testing/testing/customer%20review%20form.png)<br><br>
+![screenshot](/testing/testing/working%20review.png)<br><br>
 ![screenshot](/testing/testing/customer%20screenshot%20option.png)<br><br>
+![screenshot](/testing/testing/filled%20out%20contact%20form.png)<br><br>
+
 
 # Wireframes
 ![screenshot](/testing/testing/home%20wire.png)<br><br>
@@ -131,7 +163,7 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 
 ## Testing
 
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
+For all testing, please refer to the [Testing.Md](Testing.Md) file.
 
 # Future Features
 
@@ -155,6 +187,20 @@ I had so many bugs and errors on this project, here is a list of them and the so
 - Build fail on heroku = `(Solution)` When I deployed through heroku the build failed not sure why just disconnected the app and re-deployed and it worked.
 
 - Indentation errors = `(Solution)` Simple spelling mistakes that were easily fixed.
+
+# Deployment
+### ElpephantSQL 
+
+This project uses [ElephantSQL](https://www.elephantsql.com/) for postgreSQL database.
+
+To obtain your own Postgres database, sign-up with your GitHub account, then follow these steps:
+- Click **Create new instance** to start a new database.
+- Provide a name, this is commonly the name of your project.
+- Select the **Ting turtle plan** as this is free.
+- You can leave the **tags** blank.
+- Select the **Region** and **Data center** closest to you.
+- Once created, you can click on the nee database name where you can view the database URL and password.
+
 
 ### Heroku Deployment
 
@@ -204,12 +250,12 @@ For Heroku deployment, follow these steps to deploy your site:
 
 You can clone this repository by follwoing these steps:
 
-- Go to the [GitHub repository](https://github.com/AdamRalph123/Car-talk-blog).
+- Go to the [GitHub repository](https://github.com/gareth-39/Retro-football-kits).
 - Locate the code button above the list of files and click it.
 - Select if you prefer to clone using HTTPS, SSH or GitHub CLI and click copy button to copy the URL to your clipboard.
 - Open Git bash or Terminal.
 - Chanhe the current working directory to the one you the clonned directory.
-- In your IDE terminal, type the following command to clone the repository: `git clone https://github.com/AdamRalph123/Car-talk-blog`.
+- In your IDE terminal, type the following command to clone the repository: `git clone https://github.com/gareth-39/Retro-football-kits.
 - Press enter to create your clone.
 
 ### Forking
@@ -218,7 +264,7 @@ By forking this GitHub repository, you make a copy of the original repository on
 
 Follow these steps to fork this repository:
 
-- Login into GitHub and locate [GitHub repository](https://github.com/AdamRalph123/Car-talk-blog).
+- Login into GitHub and locate [GitHub repository](https://github.com/gareth-39/Retro-football-kits).
 - At the top of the repository Just above the **settings** button on the menu, locate the **fork** button.
 - Once clicked, you should now have a copy of the original repository in your own GitHub account.
 
