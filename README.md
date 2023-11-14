@@ -118,94 +118,20 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 ![screenshot](/testing/testing/facebook%20page%202.png)
 
 # Custom Code
-- Also as part of our project we must add three custom codes i choose a privacy, contact and Faq page.
+- Also as part of our project we must add three custom codes i choose a privacy, contact and Faq page. As my fail grade on the assessment said there was not enough custom code i have now added two extra custom logics.
 ![screenshot](/testing/testing/privacy%20page.png)<br><br>
 ![screenshot](/testing/testing/contact%20page.png)<br><br>
 ![screenshot](/testing/testing/faq%20page.png)<br><br>
+![screenshot](/testing/testing/customer%20review%20form.png)<br><br>
+![screenshot](/testing/testing/customer%20screenshot%20option.png)<br><br>
 
 # Wireframes
 ![screenshot](/testing/testing/home%20wire.png)<br><br>
 ![screenshot](/testing/testing/products%20wire.png)
 
-# Testing
--  ## Lighthouse Testing
-![screenshot](/testing/testing/lighthouse%20homepage.png)<br><br>
-![screenshot](/testing/testing/lighthouse%20all%20products.png)<br><br>
-![screenshot](/testing/testing/checkout%20lighthouse.png)<br><br>
-![screenshot](/testing/testing/lighthouse%20privacy%20page.png)<br><br>
-![screenshot](/testing/testing/lighthouse%20faq.png)<br><br>
-![screenshot](/testing/testing/lghthouse%20contact.png)<br><br>
+## Testing
 
-# Testing
-- ## Code Validator Html
-
-- As my code source contains (Jinja syntax `{% url 'privacy' %}`) I tested my code on the actual site, I right clicked on the homepage clicked view source code copied the code and put it into the validator this is the out come.
-![screenshot](/testing/testing/html%20view%20source.png)
-
-## Css
-### Base Css
-![screenshot](/testing/testing/base%20css.png)
-<br><br>
-
-### Checkout Css
-![screenshot](/testing/testing/checkout%20css.png)
-<br><br>
-
-### Profile Css
-![screenshot](/testing/testing/profile%20css.png)
-
-## Javascript JShint Validator
-### Countryfields
-![screenshot](/testing/testing/countryfield%20profile%20js.png)
-<br><br>
-
-### Stripe
-![screenshot](/testing/testing/stripe%20js.png)
-
-## Python CI Python Linter
-![screenshot](/testing/testing/bag%20contexts.py.png)<br><br>
-![screenshot](/testing/testing/bag%20models.py.png)<br><br>
-![screenshot](/testing/testing/bag%20views.py.png)<br><br>
-![screenshot](/testing/testing/checkout%20admin.py.png)<br><br>
-![screenshot](/testing/testing/checkout%20apps.py.png)<br><br>
-![screenshot](/testing/testing/checkout%20forms.py.png)<br><br>
-![screenshot](/testing/testing/checkout%20models.py.png)<br><br>
-![screenshot](/testing/testing/checkout%20signals.py.png)<br><br>
-![screenshot](/testing/testing/contact%20admin.py.png)<br><br>
-![screenshot](/testing//testing/contact%20forms.py.png)<br><br>
-![screenshot](/testing//testing/contact%20models.py.png)<br><br>
-![screenshot](/testing/testing/contact%20views.py.png)<br><br>
-![screenshot](/testing/testing/home%20views.py.png)<br><br>
-![screenshot](/testing/testing/privacy%20models.py.png)<br><br>
-![screenshot](/testing/testing/privacy%20views.py.png)<br><br>
-![screenshot](/testing/testing/product%20admin.py.png)<br><br>
-![screenshot](/testing/testing/product%20forms.py.png)<br><br>
-![screenshot](/testing/testing/product%20models.py.png)<br><br>
-![screenshot](/testing/testing/product%20views.py.png)<br><br>
-![screenshot](/testing/testing/profile%20forms.py.png)<br><br>
-![screenshot](/testing/testing/profile%20models.py.png)<br><br>
-![screenshot](/testing/testing/profile%20views.py.png)<br><br>
-![screenshot](/testing/testing/retro%20settings.py.png)<br><br>
-![screenshot](/testing/testing/retro%20views.py.png)<br><br>
-![screenshot](/testing/testing/webhook.py.png)<br><br>
-![screenshot](/testing/testing/wh%20handler.py.png)<br><br>
-
-# Manual Website testing
-![screenshot](/testing/testing/successful%20checkout.png)<br><br>
-![screenshot](/testing/testing/sign%20in.png)<br><br>
-![screenshot](/testing/testing/sign%20in%20success.png)
-<br><br>
-
-# User Story Testing
-![screenshot](/testing/user%20story/user%20stories/to%20do.png)<br><br>
-![screenshot](/testing/user%20story/user%20stories/closed%20stories%201.png)<br><br>
-![screenshot](/testing/user%20story/user%20stories/closed%20stories%202.png)<br><br>
-![screenshot](/testing/user%20story/user%20stories/closed%20stories%203.png)<br>
-![screenshot](/testing/user%20story/user%20stories/finished%20user%20stories.png)
-<br><br>
-
-# I Am Responsive
-![screenshot](/testing/testing/i%20am%20responsive.png)
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 # Future Features
 
@@ -230,20 +156,71 @@ I had so many bugs and errors on this project, here is a list of them and the so
 
 - Indentation errors = `(Solution)` Simple spelling mistakes that were easily fixed.
 
-#  Deployment
-* This project was deployment using Code institute's mock terminal on Heroku.
+### Heroku Deployment
 
-* * Sign up for heroku.
-* * Create a Heroku app.
-* * Add a confrig var (key) PORT (value) 8000.
-* * CLOUDINARY_URL
-* * DATABASE_URL
-* * HEROKU_POSTGRESQL_GREEN_URL
-* * SECRET_KEY
-* * Link the Heroku app to my repository.
-* * Build the repository.
-* * Click on deploy.
-* * New page opens with working app.
+This project uses [Heroku](https://www.heroku.com/), a platform as a service that enables developers to build, run and operate applications entirely in the cloud.
+
+- Select **new** in the top-right hand corner in your heroku dashboard and select **create new app** from the dropdown menu.
+- Your app name must be unique, then choose the region closest to you, then slect **create app**.
+- From the new app settings, click **reveal config vars** ans set your enviroment variables.
+
+| Key | Value |
+| --- | --- |
+| `AWS_ACCESS_KEY_ID` | Insert your own API key here. |
+| `DATABASE_URL` | insert your own ElephantSQL database url here. |
+| `DISABLE_COLLECTSTATIC` | 1 (*this is temporary and can be removed on your final deployment*) |
+| `SECRET_KEY` | This can be any random secret key. |
+| `AWS_SECRET_ACCESS_KEY` | Insert your own API key here. | |
+| `EMAIL_HOST_PASS` | Insert your own API key here. | |
+| `EMAIL_HOST_USER` | Insert your own email here. | |
+| `STRIPE_PUBLIC_KEY` | Insert your own API key here. | | | |
+| `STRIPE_SECRET_KEY` | Insert your own API key here. | | | |
+| `STRIPE_WH_SECRET` | Insert your own API key here. | | | |
+| `USE_AWS` | Set to true. | | | |
+
+
+Heroku needs two additional files in order to deploy properly.
+- requirements.txt file.
+- Procfile.
+
+You can install this projects ** requirements** using:
+- `pip3 install -r requirements.txt`
+
+If you have your own package that have been installed , then the requirements file needs updating using:
+- `pip3 freeze --local > requirements.txt`
+
+The **profile** can be created with the following command:
+- `echo web: gunicorn app_name.wsgi > Profile`
+- Make sure to replace 'app_name' with the name of your **own** app name.
+
+For Heroku deployment, follow these steps to deploy your site:
+
+- **Automatic** select 'enable automatic deployment'.
+- **Manual deployment** can be done by:
+    - By typing `heroku login -i` in the terminal.
+    - Set the remote for heroku: `heroku git:remote -a app_name` replace 'app_name' with your own app name.
+
+### Cloning 
+
+You can clone this repository by follwoing these steps:
+
+- Go to the [GitHub repository](https://github.com/AdamRalph123/Car-talk-blog).
+- Locate the code button above the list of files and click it.
+- Select if you prefer to clone using HTTPS, SSH or GitHub CLI and click copy button to copy the URL to your clipboard.
+- Open Git bash or Terminal.
+- Chanhe the current working directory to the one you the clonned directory.
+- In your IDE terminal, type the following command to clone the repository: `git clone https://github.com/AdamRalph123/Car-talk-blog`.
+- Press enter to create your clone.
+
+### Forking
+
+By forking this GitHub repository, you make a copy of the original repository on your GitHub account to view or makw chnages to it without affecting the ownders repository.
+
+Follow these steps to fork this repository:
+
+- Login into GitHub and locate [GitHub repository](https://github.com/AdamRalph123/Car-talk-blog).
+- At the top of the repository Just above the **settings** button on the menu, locate the **fork** button.
+- Once clicked, you should now have a copy of the original repository in your own GitHub account.
 
 
 # Credits:
