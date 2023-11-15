@@ -2,7 +2,7 @@
 ![screenshot](/testing/testing/i%20am%20responsive.png)
 
 
-## Welcome to Retro Football Kits, Your Ultimate Destination for Authentic Replica Football Shirts!
+## Welcome to Retro Football Kits, Your Ultimate Destination for Authentic Replica Football Apparel!
 
 At Retro Football Kits, we bring the passion of the beautiful game to life through our extensive collection of top-quality replica football jerseys, jackets and boots. Whether you're a die-hard fan looking to proudly sport your team's colors or a collector seeking authentic replicas, we've got you covered.
 
@@ -122,40 +122,50 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 
 # Features
 - Here are some images to showcase my webite.<br><br>
-This is my homepage ![screenshot](/testing/testing/homepage.png)<br><br>
-This is my products ![screenshot](/testing/testing/all%20products%20page.png)<br><br>
-This is my checkout page ![screenshot](/testing/testing/checkout%20page.png)<br><br>
-This is my editibg and deleting products fuction as admin ![screenshot](/testing/testing/edit%20and%20delete.png)<br><br>
-This is my admin panel![screenshot](/testing/testing/admin%20panel.png)<br><br>
-This is my footer were people can go to are social accounts and subcribe to our news letter.![screenshot](/testing/testing/footer.png)<br><br>
-This is my shopping bag were product to purchase are added. ![screenshot](/testing/testing/shopping%20bag.png)<br><br>
-This is my international jersey selection ![screenshot](/testing/testing/national%20jerseys.png)<br><br>
-This is my international jacket collection ![screenshot](/testing/testing/national%20jackets.png)<br><br>
-This is my premier league jacket collection![screenshot](/testing/testing/prem%20jackets.png)<br><br>
-This is my premier league jersey collection![screenshot](/testing/testing/prem%20jerseys.png)<br><br>
-This is my special boot collection![screenshot](/testing/testing/special%20items.png)<br><br>
-This is my product management section were i can add new items when needed ![screenshot](/testing/testing/product%20management.png)<br><br>
-This is my contact form for customers![screenshot](/testing/testing/ticket%20page.png)<br><br>
-This is my drop down menu to show the open ticket.![screenshot](/testing/testing/open%20ticket.png)<br><br>
-This is my been closed![screenshot](/testing/testing/ticket%20closed.png)<br><br>
-This is my image to show when a customer makes a purchase. ![screenshot](/testing/testing/successful%20checkout.png)
+
+| File | Screenshot |
+| --- | --- |
+| This is my homepage| ![screenshot](/testing/testing/homepage.png)
+| This is my products|  ![screenshot](/testing/testing/all%20products%20page.png)
+| This is my checkout page|  ![screenshot](/testing/testing/checkout%20page.png)
+| This is my editibg and deleting products fuction as admin|  ![screenshot](/testing/testing/edit%20and%20delete.png)
+| This is my admin panel| ![screenshot](/testing/testing/admin%20panel.png)<br><br>
+| This is my footer were people can go to are social accounts and subcribe to our news letter.| ![screenshot](/testing/testing/footer.png)
+| This is my shopping bag were product to purchase are added.| ![screenshot](/testing/testing/shopping%20bag.png)
+| This is my international jersey | ![screenshot](/testing/testing/national%20jerseys.png)
+| This is my international jacket collection| ![screenshot](/testing/testing/national%20jackets.png)
+| This is my premier league jacket collection| ![screenshot](/testing/testing/prem%20jackets.png)
+| This is my premier league jersey collection| ![screenshot](/testing/testing/prem%20jerseys.png)
+| This is my special boot collection| ![screenshot](/testing/testing/special%20items.png)
+This is my product management section were i can add new items when needed| ![screenshot](/testing/testing/product%20management.png)
+| This is my contact form for customers| ![screenshot](/testing/testing/ticket%20page.png)
+| This is my drop down menu to show the open ticket.| ![screenshot](/testing/testing/open%20ticket.png)
+| This is my been closed| ![screenshot](/testing/testing/ticket%20closed.png)<
+| This is my image to show when a customer makes a purchase.|  ![screenshot](/testing/testing/successful%20checkout.png)
 <br><br>
 
 # Facebook
 - As part of the project we needed a facebook page to match our project here is mine.
-![screenshot](/testing/testing/facebook%20page%201.png)<br><br>
-![screenshot](/testing/testing/facebook%20page%202.png)
+
+| File | Screenshot |
+| --- | --- |
+| My Facebook homepage | ![screenshot](/testing/testing/facebook%20page%201.png)<br><br>
+| Continuation of Facebook hompage | ![screenshot](/testing/testing/facebook%20page%202.png)
+<br<><br>
 
 # Custom Code
 - Also as part of our project we must add three custom codes i choose a privacy, contact and Faq page. As my fail grade on the assessment said there was not enough custom code i have now added two extra custom logics.
-![screenshot](/testing/testing/privacy%20page.png)<br><br>
-![screenshot](/testing/testing/contact%20page.png)<br><br>
-![screenshot](/testing/testing/faq%20page.png)<br><br>
-![screenshot](/testing/testing/customer%20review%20form.png)<br><br>
-![screenshot](/testing/testing/working%20review.png)<br><br>
-![screenshot](/testing/testing/customer%20screenshot%20option.png)<br><br>
-![screenshot](/testing/testing/filled%20out%20contact%20form.png)<br><br>
 
+| File | Screenshot |
+| --- | --- |
+| Privacy page | ![screenshot](/testing/testing/privacy%20page.png)
+| Contact page | ![screenshot](/testing/testing/contact%20page.png)
+| Faq page | ![screenshot](/testing/testing/faq%20page.png)
+| Customer review form | ![screenshot](/testing/testing/customer%20review%20form.png)
+| Finished review form | ![screenshot](/testing/testing/working%20review.png)
+| Contact customer added screenshot function | ![screenshot](/testing/testing/customer%20screenshot%20option.png)
+| Customer added file to screenshot function | ![screenshot](/testing/testing/filled%20out%20contact%20form.png)
+<br><br>
 
 # Wireframes
 ![screenshot](/testing/testing/home%20wire.png)<br><br>
