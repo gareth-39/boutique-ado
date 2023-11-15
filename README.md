@@ -142,6 +142,7 @@ This is my product management section were i can add new items when needed| ![sc
 | This is my drop down menu to show the open ticket.| ![screenshot](/testing/testing/open%20ticket.png)
 | This is my been closed| ![screenshot](/testing/testing/ticket%20closed.png)<
 | This is my image to show when a customer makes a purchase.|  ![screenshot](/testing/testing/successful%20checkout.png)
+| This is my image to show my footer were people can sign up for a newsletter and also reach our social media accounts.|  ![screenshot](/testing/testing/footer.png)
 <br><br>
 
 # Facebook
