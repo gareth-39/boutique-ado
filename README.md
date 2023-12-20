@@ -284,7 +284,7 @@ Follow these steps to fork this repository:
 
 * https://www.vintagefootballshirts.com/ for the use of there images and pricing
 
-* https://www.vintagefootballshirts.com/ aslo for the template for the Faq page
+* https://www.vintagefootballshirts.com/ also for the template for the Faq page
 
 * https://www.sportbible.com/football/news-adidas-and-pharrell-williams-release-stunning-humanrace-retro-kits-20201023 For my main page image
 
