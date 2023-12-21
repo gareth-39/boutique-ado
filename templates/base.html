@@ -82,6 +82,7 @@
                             {% if request.user.is_authenticated %}
                             {% if request.user.is_superuser %}
                             <a href="{% url 'add_product' %}" class="dropdown-item">Product Management</a>
+                            <a href="{% url 'add_post' %}" class="dropdown-item">Add New Blog Post</a>
                             <a href="{% url 'open_tickets' %}" class="dropdown-item">View Open Tickets</a>
                             {% endif %}
                             <a href="{% url 'profile' %}" class="dropdown-item">My Profile</a>
@@ -155,8 +156,9 @@
     {% include 'includes/footer.html' %}
 
     {% block postloadjs %}
+    <script type="text/javascript">
         $('.toast').toast('show');
-    
+    </script>
     {% endblock %}
 
 
