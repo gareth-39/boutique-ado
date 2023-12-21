@@ -1,5 +1,5 @@
 # Retro Football kits - Project Portfolio 5 - E-Commerce
-![screenshot](/testing/testing/i%20am%20responsive.png)
+![screenshot](/testing/testing/changed%20responsive.png)
 
 
 ## Welcome to Retro Football Kits, Your Ultimate Destination for Authentic Replica Football Apparel!
@@ -125,6 +125,7 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 
 | File | Screenshot |
 | --- | --- |
+
 | This is my homepage| ![screenshot](/testing/testing/homepage.png)
 | This is my products|  ![screenshot](/testing/testing/all%20products%20page.png)
 | This is my checkout page|  ![screenshot](/testing/testing/checkout%20page.png)
@@ -150,18 +151,24 @@ This is my product management section were i can add new items when needed| ![sc
 
 | File | Screenshot |
 | --- | --- |
+
 | My Facebook homepage | ![screenshot](/testing/testing/facebook%20page%201.png)<br><br>
 | Continuation of Facebook hompage | ![screenshot](/testing/testing/facebook%20page%202.png)
 <br<><br>
 
 # Custom Code
-- Also as part of our project we must add three custom codes i choose a privacy, contact and Faq page. As my fail grade on the assessment said there was not enough custom code i have now added two extra custom logics.
+- Also as part of our project we must add three custom codes i choose a privacy, contact and Faq page. As my fail grade on the assessment said there was not enough custom code i have now added two extra custom logics. I have now added a new custom code feature blog which is an interactive blog post user can go to talk about everything retro kit related. This controlled by the admin so no bad posts can be added by a user . The user can comment and like posts.
 
 | File | Screenshot |
 | --- | --- |
-| Privacy page | ![screenshot](/testing/testing/privacy%20page.png)
+
+| Blog page | ![screenshot](/testing/testing/blog%20homepage.png)
+| Blog page | ![screenshot](/testing/testing/blog%20admin.PNG)
+| Blog page | ![screenshot](/testing/testing/blog%20comments%20and%20likes.PNG)
+| Blog page | ![screenshot](/testing/testing/blog%20homepage.png)
+| Privacy page | ![screenshot](/testing/testing/new%20privacy.png)
 | Contact page | ![screenshot](/testing/testing/contact%20page.png)
-| Faq page | ![screenshot](/testing/testing/faq%20page.png)
+| Faq page | ![screenshot](/testing/testing/new%20faq.png)
 | Customer review form | ![screenshot](/testing/testing/customer%20review%20form.png)
 | Finished review form | ![screenshot](/testing/testing/working%20review.png)
 | Contact customer added screenshot function | ![screenshot](/testing/testing/customer%20screenshot%20option.png)

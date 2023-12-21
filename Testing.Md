@@ -8,7 +8,7 @@ Return back to the [README.md](README.md) file.
 
 I have used the recommened [HTML w3c validator](https://validator.w3.org/) to test and validate all of my html files.
 
-Most of my HTML files has similar issues with errors and warnings which I was not able to fix as it caused even more errors in my code. Of the seven issues one is a warning and three are the same error regarding lists.
+All of my validations have now been fixed and are showing no errors or warnings
 
 As my project uses Jinja syntax such as, `{% for loops %}` and `{% url 'home' %}` if will not validate properly if I copy and paste my code straight from my workspace.
 
@@ -22,8 +22,8 @@ In order to properly validate my HTML pages with Jinja syntax for authenticated 
 
 | Pages | Screenshots | Notes |
 | --- | --- | --- |
-| Home | ![screenshot](/testing/testing/validation%20error%201.png) | 7 errors |
-| Home | ![screenshot](/testing/testing/validation%20error%202.png) | 7 errors |
+| Home | ![screenshot](/testing/testing/new%20validations.png) | 7 errors |
+
 
 ### CSS
  
@@ -126,7 +126,7 @@ Checked on the i am responsive webite. [Am I Responsive](https://ui.dev/amirespo
 
 | File | Screenshot | Notes |
 | --- | --- | --- |
-| responsive | ![screenshot](/testing/testing/i%20am%20responsive.png) | all responsive |
+| responsive | ![screenshot](/testing/testing/changed%20responsive.png) | all responsive |
 
  ### Lighthouse Testing
 
