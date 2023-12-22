@@ -118,7 +118,7 @@ Here is a link to my gitpod repository https://github.com/gareth-39/Retro-footba
 
 # Main site image
 - Here is the main site image for my website i have used this image as i really like it but i have moved the faces on the image up on the deployed site as i was not to sure about the copyright infrigement.
-![Alt text](/media/image-5%20(1).webp)
+![Alt text](/media/pexels-pok-rie-8838868.jpg)
 
 # Features
 - Here are some images to showcase my webite.<br><br>
